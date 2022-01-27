@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549614152828",
+    "project_id": "testuifb",
+    "storage_bucket": "testuifb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549614152828:android:2aa14956a77181257dadf9",
+        "android_client_info": {
+          "package_name": "com.example.ui_facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549614152828-hj0pfggn2h0v7kfejvkt4rq99qcprp2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHZ24BXwPmiF3D1foUidZygq7W8d4F4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549614152828-hj0pfggn2h0v7kfejvkt4rq99qcprp2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
